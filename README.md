@@ -25,4 +25,3 @@ npm install
 ```
 npm run dev
 ```
-test commit and push 
